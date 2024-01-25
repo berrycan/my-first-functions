@@ -7,3 +7,4 @@ remind_me <- function() {
     Sys.sleep(5)
     quit()
   }
+}
