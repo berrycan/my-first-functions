@@ -5,9 +5,14 @@ date: "2024-01-25"
 output: html_document
 ---
 This is an R Markdown for my make_art function.
-The codegenerates a 10 by 10 scatter plot of random colors (It's pretty self-explanatory).
+The code generates a 10 by 10 scatter plot of random colors (It's pretty self-explanatory).
 
 ```{r}
+# Source function
+
+source("https://raw.githubusercontent.com/berrycan/my-first-functions/main/cheat_assignment_3_function.R")
+
+#Alternatively: Run the code below
 
 #Install packages
 
@@ -40,6 +45,7 @@ make_art <- function() {
   return(art)
 }
 make_art()
+
 
 ```
 
