@@ -28,5 +28,5 @@ ggplot(titanic_data, aes(x = Sex, fill = factor(Survived, labels = c("Dead", "Al
        fill = "How did it go?")'
   }
   
-  return(solution)
+  return(eval(solution))
 }
