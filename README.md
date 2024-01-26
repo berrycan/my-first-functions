@@ -1,4 +1,4 @@
-´remind_me()` takes no arguments and returns a reminder to submit the assignment when executed on Friday and a reminder to go to bed when executed at 12pm.
+´remind_me()´ takes no arguments and returns a reminder to submit the assignment when executed on Friday and a reminder to go to bed when executed at 12pm.
 
 
 
