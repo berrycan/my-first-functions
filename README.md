@@ -1,7 +1,7 @@
-1. Reminder Function
+**Reminder Function**
 remind_me() takes no arguments and returns a reminder to submit the assignment when executed on Friday, January 26 and a reminder to go to bed when executed at 12pm.
 
-2. Cheat Assignment Function
+**Cheat Assignment Function**
 cheat() takes the argument exercise which can take on values 1,2 or 3 corresponding to the exercizes Q3.1.1-3.
 
   Usage
@@ -18,5 +18,5 @@ cheat() takes the argument exercise which can take on values 1,2 or 3 correspond
       grades <- dist_half_points[dist_half_points < 10 & dist_half_points > 0]
       hist(grades)
 
-3. Make_art Function
+**Make_art Function**
 make_art() takes no arguments and creates a reproducable 10 by 10 scatter plot filled with random colors. 
